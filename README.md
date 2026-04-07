@@ -14,7 +14,7 @@
 `Cкриншоты авторизации в админке:`
 
 
-![img1](https://github.com/PhartomX/netology_zabbix_1/blob/main/img/img1.png)
+![img1](https://github.com/PhartomX/netology_zabbix_2/blob/main/img/img1.png)
 
 ---
 
@@ -42,7 +42,7 @@
 3. Так же к каждому хосту привяжите шаблон Linux by Zabbix Agent.
 4. Проверьте что в раздел Latest Data начали поступать необходимые данные из вашего шаблона.
 
-![img2](https://github.com/PhartomX/netology_zabbix_1/blob/main/img/img2.png)
+![img2](https://github.com/PhartomX/netology_zabbix_2/blob/main/img/img2.png)
 
 ---
 
@@ -55,6 +55,6 @@
 2. В разделе Dashboards создайте новый дашборд.
 3. Разместите на нём несколько графиков на ваше усмотрение.
 
-![img3](https://github.com/PhartomX/netology_zabbix_1/blob/main/img/img3.png)
+![img3](https://github.com/PhartomX/netology_zabbix_2/blob/main/img/img3.png)
 
 ---
